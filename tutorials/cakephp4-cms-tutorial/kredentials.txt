@@ -1,0 +1,5 @@
+-email:cakephp@example.com
+-password:sifra
+=============================
+-email:newuser@example.com
+-password:sifra

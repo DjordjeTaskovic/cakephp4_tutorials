@@ -1,0 +1,4 @@
+-email:newcakeuser@example.com
+-email:seconduser@example.com
+-email:thirduser@example.com
+-password:sifra
